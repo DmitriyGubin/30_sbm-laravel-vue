@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "sheets-367610",
+  "private_key_id": "**********************",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nIBAQCfh6yUTnd82/mg\ntxWUGKlJyzNhD37OmbUqmPi3r/0Wx7stA0E7Db1kZrXBY/qAEcXW5FWmjFZcTQPl\n97Fy9xAxMRfbXlOWzO4tYUpeLHp9wjz7QdBu0ntYDO7vzlVrsBnwMn6JA1q+Y5kY\nSgM7/O4Sn9YdX8DQPg3rMgEsJ47hEHCQg6heBV55/6t+FYAM0e/DgRtP3sCxHmeE\nUNyrS8wVkqcAMJAujzdnHfgGWWA8KY+ceExboDGgLziWdMdBIuqRMbMTP7/PZ8mj\nVhJtjtuBC2ok8vWaKtDKeBxXaeBaar6eXvnrI4RZo/iaaT+eofHVlLFdeIGOJRXj\neJCrZXOxAgMBAAECggEAAIDVp6DNDvBmITRxdEVpOooleloDLMjZyqN5BsInMOVe\nallGPgsg7HQwi3iiJpM0C4SQfmPwnwWHhqXmc6DwqH2rTXoUknfJCtml82x+3z6/\nyMqMOzIAkKKupJEQ/UtgEAoIij+NtObo+aI4TkAcjbTLvHG6YcaYRdIqxFaSSta0\n1qiom1ORYKGsd7xmZeDrXLPFHf5SgGHT9EV5gn6z+OjNDztPyzAfPaabyrE3JTQq\nYL7CIMP2/Lm4i7SKbEbKy5jAQ4BolPhxfezGaZp+YGof8Q/GhGkHvGMUO7z/Aebm\no2mZ1zHA+RnNlxT4WkV/MeA/kmPGC0rfqnrK07E+4QKBgQDZ6u+S6RVNPvJJS5Xy\nfgzo3IPr6Q9WJ8+dTxeuHCfyymZPA59jNp+giU2zDw6e7hrqxphwSX+i0QK1RUyG\n/DVUu7vvzATYE3YUpL5E+j7pyqpqbyE3HlUiR3KjuXZwZ/w9PCkSK4wZFHpZN6WT\n/AulZcATJH08q+BNN1ExTHzJ0QKBgQC7aJ/tAXEbc7Xd97OQNIRUkdS0/ENI/s+R\nW7ZW2DitHqaCI5ODKRBkh5ooSh2sRGvvyCmemAp7o5VIXtdOysCUULh3DnM9UnzM\nD1MEx5pImG1njZjFKX1zrJzd24BMC7Oy3DyJStfXrAcPrRuNfpYH30uxTQ/ikuge\nChw1v7ij4QKBgC0nrXT3r15OSM4/R1b0H6Cw8PUVWgQ0Q6UJGpMNaom4vvJogcKB\nMxqE2QDdgd4U4Kb9d+DsmfIW9USyk2T1Jefk7tCFqgtMHQ+yA2svn5G6WQ2s8WkG\ndAWiYHLkn1IzeeUGbkxBkcowoBmUmk7Lz236Y46T5Q+JXfUiHUTl4IXBAoGAF4F7\n7aIsqaDNwtV6tC+iGWlhIIIzfkhXiIfUSvg7w5sAj3oe2migIbvQXhVNu3mpgB2+\n+qFfTzqpUrZykvNjTDcDrAsn8R0TghS5+POAKnLT5hUggDo//e48jqclZGRjWZ++\nCApXIDn3eMPhnNGvx7T+LXLY9zYt3vatqyAs7IECgYA/nbHYH42BvfhQea5x8nXL\nhIhT1Rg8ruMuW1OJIdxjkE8TMNBuQO+II/+Up1e+icH4+78squvos9gABmsTFRoh\nz4nGgvt1vUXTNzvCu00JI5qtPqKznZIhRfYp6p8umjsfpfcZSj7Tc3t1/m48em8c\nfvQFcwPwl+izc0QkZKV3+w==\n-----END PRIVATE KEY-----\n",
+  "client_email": "dimon-481@sheets-367610.iam.gserviceaccount.com",
+  "client_id": "***************",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dimon-481%40sheets-367610.iam.gserviceaccount.com"
+}
